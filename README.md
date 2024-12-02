@@ -39,3 +39,7 @@ Implementar uma classe `Heroi` que:
 
 Se o tipo do herói não for reconhecido, exibir: **"O herói atacou usando um ataque genérico"**.
 
+## Certificado
+![Certificado](https://github.com/user-attachments/assets/9efbb48e-7a43-48d5-85b2-5462acd9d5dc)
+
+
